@@ -43,4 +43,5 @@ Fore more details about the library, refer to readme file under isam folder.
 
 To generate simulated dataset, run generateSimData.m. Ground truth objects are randomly generated. Click in the figure to generate the ground truth trajectory, make sure there are enough loop closures. When finished, press enter button on the keyboard.
 
-To run the algorithm and compared algorithms, run main_simulation.m
+## HDP SLAM simulation demo
+To run the algorithm and compared algorithms, run Demo1.m and Demo2.m
