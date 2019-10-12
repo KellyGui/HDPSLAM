@@ -43,8 +43,12 @@ To generate simulated dataset, run generateSimData.m. Ground truth objects are r
 ## HDP SLAM simulation demo
 To run the algorithm and compared algorithms, run Demo1.m and Demo2.m
 
+
 Two demos:
+
       version1: the parameter of standard deviation is set
+      
       version2: use distribution with the hpyerparameter gamma to sample the parameter of standard deviation
+      
       
 The common-view frame matrix is computed for the measurement among the frames with the same commonview relationships.
