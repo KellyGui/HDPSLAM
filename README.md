@@ -8,7 +8,8 @@ Two demos:
       
 The common-view frame matrix is computed for the measurement among the frames with the same commonview relationships.
 
-see the bib reference of our HDP SLAM paper below:
+See the bib reference of our HDP SLAM paper below:
+
 @ARTICLE{8794595,
 author={J. {Zhang} and M. {Gui} and Q. {Wang} and R. {Liu} and J. {Xu} and S. {Chen}},
 journal={IEEE Transactions on Visualization and Computer Graphics},
@@ -22,7 +23,9 @@ doi={10.1109/TVCG.2019.2932216},
 ISSN={},
 month={Nov},}
 
+
 The code for "SLAM with objects using a nonparametric pose graph". See bib reference below:
+
 @INPROCEEDINGS{Mu_iros_2016,
 	author={B. Mu and S. Y. Liu and L. Paull and J. Leonard and J. P. How},
 	booktitle={2016 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
