@@ -1,5 +1,5 @@
 # HDPSLAM
-our simulation implementation of HDP SLAM based on the original code of the paper < SLAM with objects using a nonparametric pose graph >
+Our simulation implementation of HDP SLAM based on the original code of the paper < SLAM with objects using a nonparametric pose graph >
 the github is https://github.com/BeipengMu/objectSLAM
 
 See the bib reference of our HDP SLAM paper below:
